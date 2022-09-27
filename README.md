@@ -10,10 +10,6 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://img.shields.io/badge/SQL-8.0.30
--blue.svg?style=flat-square&logo=sql" alt="MySQL 8.0.30"/>
-    </a>
-    <a href="#">
         <img src="https://img.shields.io/badge/mysql-8.0.30-blue.svg?style=flat-square&logo=mysql" alt="MySQL 8.0.30"/>
     </a>
 </a>
