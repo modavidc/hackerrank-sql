@@ -53,6 +53,11 @@
 |        Basic Select         | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks)                                             |   15   |    Easy    | [Solution.sql](Basic%20Select/Higher%20Than%2075%20Marks.sql)                                     |
 |        Basic Select         | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees)                                                    |   10   |    Easy    | [Solution.sql](Basic%20Select/Employee%20Names.sql)                                               |
 |        Basic Select         | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees)                                               |   10   |    Easy    | [Solution.sql](Basic%20Select/Employee%20Salaries.sql)                                            |
+|        Advanced Select      | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle)                                              |   20   |    Easy    | [Solution.sql](Advanced%20Select/Type%20of%20Triangle.sql)                                        |
+|        Advanced Select      | [The PADS](https://www.hackerrank.com/challenges/the-pads)                                                                   |   30   |    Medium  | [Solution.sql](Advanced%20Select/The%20PADS.sql)                                                  |
+|        Advanced Select      | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1)                                              |   30   |    Medium  | [Solution.sql](Advanced%20Select/Binary%20Tree%20Nodes.sql)                                       |
+|        Advanced Select      | [New Companies](https://www.hackerrank.com/challenges/the-company)                                                           |   30   |    Medium  | [Solution.sql](Advanced%20Select/New%20Companies.sql)                                             |
+
 
 ## 👤 Author
 

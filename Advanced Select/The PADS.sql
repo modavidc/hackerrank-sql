@@ -1,0 +1,33 @@
+-- # Problem: https://www.hackerrank.com/challenges/the-pads/problem
+
+-- # Solution 1
+SELECT CONCAT(NAME, '', '(' , LEFT(OCCUPATION, 1) , ')')
+FROM OCCUPATIONS
+ORDER BY NAME;
+
+SELECT CONCAT('There are a total of ', COUNT(NAME), ' doctors.')
+FROM OCCUPATIONS
+WHERE OCCUPATION = 'Doctor';
+
+SELECT CONCAT('There are a total of ', COUNT(NAME), ' actors.')
+FROM OCCUPATIONS
+WHERE OCCUPATION = 'Actor';
+
+SELECT CONCAT('There are a total of ', COUNT(NAME), ' singers.')
+FROM OCCUPATIONS
+WHERE OCCUPATION = 'Singer';
+
+SELECT COUNT(NAME)
+FROM OCCUPATIONS
+GROUP BY OCCUPATION 
+ORDER BY NAME ASC;
+
+-- # Solution 2
+SELECT CONCAT(NAME, '', '(' , LEFT(OCCUPATION, 1) , ')')
+FROM OCCUPATIONS
+ORDER BY NAME;
+
+SELECT CONCAT('There are a total of ', COUNT(NAME), ' ', LOWER(OCCUPATION), 's.') 
+FROM OCCUPATIONS
+GROUP BY OCCUPATION
+ORDER BY COUNT(NAME) ASC;
