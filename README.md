@@ -25,7 +25,7 @@
   ·
   <a href="https://github.com/modavidc/hackerrank-sql/issues">Report a bug</a>
   ·
-  <a href="hTypethub.com/modavidc/hackerrank-sql/issues">Request a feature</a>
+  <a href="https://github.com/modavidc/hackerrank-sql/issues">Request a feature</a>
 </p>
 
 ## 💪 Exercices
@@ -68,8 +68,8 @@ Feel free to check [issues page](https://github.com/modavidc/hackerrank-sql/issu
 
 ## 💡 This README was inspired by
 
-<a href = "https://github.com/fmontes">
-  <img src = "https://contrib.rocks/image?repo=sknsht/HackerRank"/>
+<a href="https://github.com/sknsht/HackerRank">
+  <img src="https://contrib.rocks/image?repo=sknsht/HackerRank"/>
 </a>
 
 ## 🧑 Credits:
