@@ -27,7 +27,6 @@
   ·
   <a href="hTypethub.com/modavidc/hackerrank-sql/issues">Request a feature</a>
 </p>
-  <br />
 
 ## 💪 Exercices
 
