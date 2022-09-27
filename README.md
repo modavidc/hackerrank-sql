@@ -10,11 +10,11 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://img.shields.io/badge/SQL
--blue.svg?style=flat-square&logo=sql" alt="SQL 9.0"/>
+        <img src="https://img.shields.io/badge/SQL-8.0.30
+-blue.svg?style=flat-square&logo=sql" alt="MySQL 8.0.30"/>
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/mysql-8.0.30-blue.svg?style=flat-square&logo=mysql" alt="Docker 20.0"/>
+        <img src="https://img.shields.io/badge/mysql-8.0.30-blue.svg?style=flat-square&logo=mysql" alt="MySQL 8.0.30"/>
     </a>
 </a>
 </p>
@@ -73,9 +73,6 @@ Feel free to check [issues page](https://github.com/modavidc/hackerrank-sql/issu
 
 ## 💡 This README was inspired by
 
-<a href = "https://github.com/bikatti">
-  <img src = "https://contrib.rocks/image?repo=bikatti/bikatti"/>
-</a>
 <a href = "https://github.com/fmontes">
   <img src = "https://contrib.rocks/image?repo=sknsht/HackerRank"/>
 </a>
