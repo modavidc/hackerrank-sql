@@ -71,12 +71,6 @@
 Contributions, issues and feature requests are welcome.<br />
 Feel free to check [issues page](https://github.com/modavidc/hackerrank-sql/issues) if you want to contribute.<br />
 
-## 💡 This README was inspired by
-
-<a href="https://github.com/sknsht/HackerRank">
-  <img src="https://contrib.rocks/image?repo=sknsht/HackerRank"/>
-</a>
-
 ## 🧑 Credits:
 
 - [Sql icons created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/sql)
