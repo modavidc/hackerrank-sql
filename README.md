@@ -57,7 +57,12 @@
 |        Advanced Select      | [The PADS](https://www.hackerrank.com/challenges/the-pads)                                                                   |   30   |    Medium  | [Solution.sql](Advanced%20Select/The%20PADS.sql)                                                  |
 |        Advanced Select      | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1)                                              |   30   |    Medium  | [Solution.sql](Advanced%20Select/Binary%20Tree%20Nodes.sql)                                       |
 |        Advanced Select      | [New Companies](https://www.hackerrank.com/challenges/the-company)                                                           |   30   |    Medium  | [Solution.sql](Advanced%20Select/New%20Companies.sql)                                             |
-
+|        Aggregation          | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) |   10   |    Easy    | [Solution.sql](Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)              |
+|        Aggregation          | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum)                  |   10   |    Easy    | [Solution.sql](Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)                |
+|        Aggregation          | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function)         |   10   |    Easy    | [Solution.sql](Aggregation/Revising%20Aggregations%20-%20Averages.sql)                            |
+|        Aggregation          | [Average Population](https://www.hackerrank.com/challenges/average-population)                                               |   10   |    Easy    | [Solution.sql](Aggregation/Average%20Population.sql)                                              |
+|        Aggregation          | [Japan Population](https://www.hackerrank.com/challenges/japan-population)                                                   |   10   |    Easy    | [Solution.sql](Aggregation/Japan%20Population.sql)                                                |
+|        Aggregation          | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference)                         |   10   |    Easy    | [Solution.sql](Aggregation/Population%20Density%20Difference.sql)                                 |
 
 ## 👤 Author
 
@@ -70,6 +75,12 @@
 
 Contributions, issues and feature requests are welcome.<br />
 Feel free to check [issues page](https://github.com/modavidc/hackerrank-sql/issues) if you want to contribute.<br />
+
+## 💡 This README was inspired by
+
+<a href="https://github.com/sknsht/HackerRank">
+  <img src="https://contrib.rocks/image?repo=sknsht/HackerRank"/>
+</a>
 
 ## 🧑 Credits:
 
