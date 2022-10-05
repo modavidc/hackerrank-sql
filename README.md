@@ -82,7 +82,7 @@
 |        Basic Join           | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands)                                       |   30   |    Medium  | [Solution.sql](Basic%20Join/Ollivander's%20Inventory.sql)                                         |
 |        Basic Join           | [Challenges](https://www.hackerrank.com/challenges/challenges)                                                               |   30   |    Medium  | [Solution.sql](Basic%20Join/Challenges.sql)                                                       |
 |        Alternative Queries  | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1)                                             |   25   |    Easy    | [Solution.sql](Alternative%20Queries/Draw%20The%20Triangle%201.sql)                               |
-|        Alternative Queries  | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)                                             |   25   |    Easy    | [Solution.sql](Alternative%20Queries/Draw%20The%20Triangle%202.sql)                               |
+|        Alternative Queries  | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)                                             |   25   |    Easy    | [Solution.sql](Alternative%20Queries/Draw%20The%20Triangle%202.sql)                               | 
 
 ## 👤 Author
 
